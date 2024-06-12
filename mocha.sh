@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+Rosewater=#fff5e0dc
+Flamingo=#fff2cdcd
+Pink=#fff5c2e7
+Mauve=#ffcba6f7
+Red=#fff38ba8
+Maroon=#ffeba0ac
+Peach=#fffab387
+Yellow=#fff9e2af
+Green=#ffa6e3a1
+Teal=#ff94e2d5
+Sky=#ff89dceb
+Sapphire=#ff74c7ec
+Blue=#ff89b4fa
+Lavender=#ffb4befe
+Text=#ffcdd6f4
+Subtext1=#ffbac2de
+Subtext0=#ffa6adc8
+Overlay2=#ff9399b2
+Overlay1=#ff7f849c
+Overlay0=#ff6c7086
+Surface2=#ff585b70
+Surface1=#ff45475a
+Surface0=#ff313244
+Base=#ff1e1e2e
+Mantle=#ff181825
+Crust=#ff11111b
