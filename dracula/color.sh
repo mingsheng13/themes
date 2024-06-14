@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 Background=#ff282a36
 Current_Line=#ff44475a
 Selection=#ff44475a
